@@ -1,0 +1,12 @@
+reserved_room_type,description
+A,Single Room
+B,Studio Room
+C,Standard Room
+D,Double Room
+E,Twin Room
+F,Family Room
+G,Deluxe Room
+H,Suite
+I,Executive Room
+K,Presidential Suite
+L,Penthouse Suite
